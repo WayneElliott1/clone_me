@@ -1,0 +1,5 @@
+/tmp/
+*.class
+*.log
+*.tmp
+notes.txt
